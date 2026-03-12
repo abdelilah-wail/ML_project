@@ -55,7 +55,14 @@ This project uses regression techniques to predict diabetes outcomes. See the no
 
 ## Results
 
-[Add your model performance metrics here]
+The regression model predicts diabetes outcomes using patient health metrics. The model evaluates performance using mean squared error, R-squared, and cross-validation scores to ensure reliability and generalization.
+
+### Model Features
+- Data preprocessing and normalization
+- Feature analysis and correlation studies
+- Multiple regression techniques comparison
+- Model evaluation and performance metrics
+- Visualization of results and predictions
 
 ## Author
 
